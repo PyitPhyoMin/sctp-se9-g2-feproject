@@ -1,4 +1,5 @@
 version: 2.1
+# CircleCI configuration file for the Mini Mart frontend project
 
 orbs:
   node: circleci/node@5.0.1
